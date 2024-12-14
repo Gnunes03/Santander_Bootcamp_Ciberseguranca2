@@ -51,7 +51,7 @@ O Santander Bootcamp Cibersegurança #2, uma parceria entre o Santander e a DIO,
     title="Santander"
     width="150px" 
     style="padding-right: 10px;" 
-    src="https://logospng.org/wp-content/uploads/santander.png](https://vetores.org/santander-svg-logo" 
+    src="https://logospng.org/wp-content/uploads/santander.png](https://vetores.org/santander-svg-logo](https://github.com/Gnunes03/Santander_Bootcamp_Ciberseguranca2/blob/main/santander.svg" 
 />
 <img 
     align="left" 
