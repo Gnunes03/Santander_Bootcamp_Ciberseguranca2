@@ -1,22 +1,6 @@
 ### Resutados do Desafio Bootcamp Santander ###
 
-
-
-
-
-
-<p>
-  <video 
-    align="left" 
-    width="250" 
-    height="150" 
-    autoplay 
-    muted 
-    controls>
-    <source src="https://raw.githubusercontent.com/Gnunes03/Santander_Bootcamp_Ciberseguranca2/main/Atividades/arquivos/DesafioPhishing.mp4" type="video/mp4">
- </video>
-</p>
-
+https://raw.githubusercontent.com/Gnunes03/Santander_Bootcamp_Ciberseguranca2/main/Atividades/arquivos/DesafioPhishing.mp4" 
 
 # Phishing para captura de senhas do Facebook
 
