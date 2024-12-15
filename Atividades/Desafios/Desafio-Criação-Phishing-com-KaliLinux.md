@@ -17,5 +17,12 @@
 - URL para clone: http://www.facebook.com
 
 ### Resutados
+<p>
+<img 
+    align="left" 
+    width="250px" 
+    height="150px"
+    src="https://github.com/cassiano-dio/cibersecurity-desafio-phishing/blob/master/passwd.png" 
+/>
+</p>
 
-![Alt text](./passwd.png "Optional title")
